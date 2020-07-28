@@ -1,7 +1,7 @@
 ## Intro to ML Art with RunwayML
 
 
-## Week 1
+## Week 1: ML Basics,Setup & Inspiration
 ### Class documents:
 - [Week 1 Slides](https://docs.google.com/presentation/d/1VBKNMknSNVXQecBW8YRNm-aXAuPPJ7aTl3Sbo8lnNvw/edit?usp=sharing)
 - [Week 1 Video](https://drive.google.com/file/d/1NQmSYZSYdztSGkAADzpz8DBn33fgxHvB/view?usp=sharing)
@@ -22,3 +22,50 @@
 - Think about a bigger project you want to make
   - Look at the Runway Slack and social projects for inspiration ([Runway YouTube](https://www.youtube.com/runwayml))
   - Look at some of the models and consider what inputs you have available to you and what you want as outputs
+
+
+## Week 2: Inspiration, Special Input Types, Batch Exports
+### Class documents:
+- [Week 2 Slides](https://docs.google.com/presentation/d/1L7oweu81Gsr6XqH7nf3uULhQVKuT8SCQw8bt5Dei55w/edit?usp=sharing)
+- [Week 2 Video](https://drive.google.com/file/d/1Z73-fVfj35-y-EiDCWGtFFo6PfUrfpsw/view?usp=sharing)
+
+### Links/Good things to check out:
+- A [list of ML Art Colab notebooks](https://github.com/dvschultz/ml-art-colabs)
+- [A YouTube playlist of Colab demos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE)
+- Derrick's [Neural-style-tf Colab Notebook](https://colab.research.google.com/github/dvschultz/artificial-images/blob/master/neural_style_tf.ipynb#scrollTo=zHPQH7Z8hscj)
+- [Esteban Salgado’s StyleGAN work](https://www.instagram.com/flatyaku/)
+- [Nye Warburton’s YouTube page](https://www.youtube.com/channel/UCNzVeM72UeRLBUksehOXXFQ)
+- Pix2Pix [training](https://www.youtube.com/watch?v=TVCZLb1qe_0) and [testing](https://www.youtube.com/watch?v=fXgodCC2O7o) videos on YouTube
+- [Lia’s upcoming webinar!](https://grayarea.org/workshop/ai-webinar/)
+- [In depth neural-style-tf discussion](https://www.youtube.com/watch?v=0lX-4Znoopk)
+- [Downloading a StyleGAN model from Runway](https://www.youtube.com/watch?v=6XdToEb18cs)
+
+
+### Homework:
+- **Keep exploring models**
+  - We’ve covered a handful of models so far in class, but there are many more! Keep digging around. We’ve created a [playlist of model videos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn) to watch if you’re interested.
+- **Sign up for 1:1 sessions with [Derrick](https://calendly.com/derrick-schultz/1-on-1) or [Lia](https://calendly.com/lialialiacole/30min)**
+- **If you’re interested in training...** We won’t cover training in this 3-week course, but we do have videos from other classes that you can watch. Ask us questions!
+  - [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
+  - [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
+
+## Week 3: Chaining, Plugins/Networks
+### Class documents:
+- [Week 3 Slides](https://docs.google.com/presentation/d/1CvnGzrg8yWW0bhNCpWGGM44OSUw0yKSwqcT4d8wdgUI/edit?usp=sharing)
+- [Week 3 Video](https://drive.google.com/file/d/12dbonQ-bH0Uaa_koWyjCV_X6qBdXDL9r/view?usp=sharing)
+- [Week 3 Class notes](https://www.notion.so/Runway-Plugins-Chaining-a2fb0875be6c4bf98e7deb137d2f9727) taken by Lia
+
+### Links/Good things to check out:
+- [Building Datasets](https://youtu.be/sEZ4Y_tVxm0?t=1848)
+- [Training StyleGAN2 models in RunwayML](https://www.youtube.com/watch?v=RVVFX7kXZ2E&list=PLWuCzxqIpJs9zhdNV7E71aaXH0neU73UG)
+- [Splitting a video into frames](https://www.youtube.com/watch?v=ck11jOVYlIw)
+- [Jason Levine, a musician that uses AI in his work](https://twitter.com/xululululuuum)
+- [Jukebox](https://openai.com/blog/jukebox/), by OpenAI
+- [Google Magenta](https://magenta.tensorflow.org/get-started), and AI lab devoted to music generation ML
+- [Holly Herndon and Mat Dryhurst’s Interdependence](https://www.patreon.com/interdependence), a podcast that often discusses music and ML
+- [Downloading a StyleGAN model from Runway](https://www.youtube.com/watch?v=6XdToEb18cs)
+
+
+### Homework:
+- **Fill out the [class survey](https://forms.gle/3Q3vwxt26ukssqd86)!**
+- **Sign up for 1:1 sessions with [Derrick](https://calendly.com/derrick-schultz/1-on-1) or [Lia](https://calendly.com/lialialiacole/1-1)**
